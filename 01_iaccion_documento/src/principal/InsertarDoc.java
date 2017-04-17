@@ -11,6 +11,7 @@ import com.mongodb.client.MongoDatabase;
 
 
 //commit 4444
+//commit once
 public class InsertarDoc {
 
 	public static void main(String[] args) {
