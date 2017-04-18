@@ -11,12 +11,7 @@ import com.mongodb.client.MongoDatabase;
 
 
 //commit 4444
-//commit 55555555
-//commit 6666666
-//commit 77777
-//Commit 8888888
-//commit 99999999
-//commit 101010
+//commit once
 public class InsertarDoc {
 
 	public static void main(String[] args) {
