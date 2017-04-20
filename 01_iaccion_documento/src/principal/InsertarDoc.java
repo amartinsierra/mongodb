@@ -10,7 +10,7 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 
 
-//commit 2222222222222222222222222
+//aqui un comentario ****************
 public class InsertarDoc {
 
 	public static void main(String[] args) {
@@ -29,7 +29,7 @@ public class InsertarDoc {
 		jsonDoc.put("salario", 1500);
 		Document doc=new Document(jsonDoc);
 		
-		
+		//otro comentario ****************
 		col.insertOne(doc);
 		
 		
