@@ -12,7 +12,7 @@ import com.mongodb.client.MongoDatabase;
 
 
 public class InsertarDoc {
-	//se borró el comentario anterior
+	//se borró el comentario anterior***********
 	public static void main(String[] args) {
 		//conexión con el servidor Mongo DB
 		MongoClient mongo=new MongoClient("localhost", 27017);
