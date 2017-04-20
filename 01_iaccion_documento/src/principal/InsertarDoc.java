@@ -10,9 +10,9 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
 
 
-//aqui un comentario ****************
-public class InsertarDoc {
 
+public class InsertarDoc {
+	//se borró el comentario anterior
 	public static void main(String[] args) {
 		//conexión con el servidor Mongo DB
 		MongoClient mongo=new MongoClient("localhost", 27017);
